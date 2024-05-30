@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**angga0310/angga0310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi, I'm Dania Angga 
+<h4> a student who is learning about android development</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🔭 I'm currently studying at [Politeknik Negeri Jember](https://polije.ac.id/)
+
+ 🌱 I’m currently learning **Flutter, Laravel**
+
+ 👨‍💻 All of my projects are available at [comming soon](comming soon)
+
+ 📫 How to reach me **anggabarry87@gmail.com**
+
+![Dania Angga's GitHub stats](https://github-readme-stats.vercel.app/api?username=angga0310&show_icons=true&theme=radical)
