@@ -2,14 +2,6 @@
 
 ### Hi, I'm Dania Angga 
 
- 🔭 I'm currently studying at [Politeknik Negeri Jember](https://polije.ac.id/)
-
- 🌱 I’m currently learning **Flutter, Laravel**
-
- 👨‍💻 All of my projects are available at [comming soon]
-
- 📫 How to reach me **anggabarry87@gmail.com**
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dania-angga-6a27181a3/) 
 
