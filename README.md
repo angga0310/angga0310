@@ -1,6 +1,7 @@
 
 
 ### Hi, I'm Dania Angga 
+### Its all about me
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dania-angga-6a27181a3/) 
